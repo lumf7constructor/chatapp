@@ -87,7 +87,7 @@ function App() {
                         <h2>Welcome, {username}!</h2>
                     </div>
                     <div>
-                        <h3>OnlineUsers:</h3>
+                        <h3>Online Users:</h3>
                         <ul>
                             {users.map((user, index) => (
                                 <li key={index}>{user}</li>
