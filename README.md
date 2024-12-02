@@ -29,6 +29,7 @@ This real-time chat application allows users to send and receive messages, join 
    node index.js
 
 ### Frontend Setup
+```bash
    cd chatapp/chat-frontend
    npm install
    npm start
